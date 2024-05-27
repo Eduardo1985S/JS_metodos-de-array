@@ -2,31 +2,33 @@
 ## Métodos de Array em JavaScript
 ### Este documento fornece uma visão geral dos métodos mais comuns de array em JavaScript. Arrays ### são uma estrutura de dados fundamental em JavaScript, permitindo armazenar e manipular ### coleções de dados.
 
-Índice
-Introdução
-Métodos de Mutação
-push
-pop
-shift
-unshift
-splice
-Métodos de Acesso
-concat
-slice
-indexOf
-lastIndexOf
-includes
-Métodos de Iteração
-forEach
-map
-filter
-reduce
-find
-findIndex
-Métodos de Ordenação
-sort
-reverse
-Conclusão
+### Índice
+### Introdução
+### Métodos de Mutação
+- push
+- pop
+- shift
+- unshift
+- splice
+### Métodos de Acesso
+- concat
+- slice
+- indexOf
+- lastIndexOf
+- includes
+### Métodos de Iteração
+- forEach
+- map
+- filter
+- reduce
+- find
+- findIndex
+### Métodos de Ordenação
+- sort
+- reverse
+- Conclusão
+
+
 Introdução
 Arrays em JavaScript são objetos que permitem armazenar múltiplos valores em uma única variável. Eles vêm com diversos métodos integrados que facilitam a manipulação e acesso aos dados.
 
